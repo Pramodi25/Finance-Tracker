@@ -1,0 +1,24 @@
+Salary, 100000, 2024-01-01
+Rent, 5000, 2024-01-01
+Groceries, 2000, 2024-01-03
+Groceries, 5000, 2024-01-09
+Transport, 500, 2024-01-09
+Loan, 10000, 2024-01-10
+Clothing, 4500, 2024-01-10
+Credit Card Payment, 3000, 2024-01-11
+Transport, 400, 2024-01-11
+Home Repairs, 5000, 2024-07-12
+Transport, 500, 2024-01-12
+Groceries, 1000, 2024-01-12
+Medical, 1500, 2024-01-12
+Internet Bill, 2000, 2024-01-13
+Electricity bill, 3000, 2024-01-13
+Subscriptions, 2000, 2024-01-15
+Travel, 15000, 2024-01-20
+Transport, 300, 2024-01-24
+Groceries, 2000, 2024-01-25
+Medical, 1000, 2024-01-25
+Clothing, 4500, 2024-01-26
+Insurance, 3000, 2024-01-27
+Transport, 500, 2024-01-27
+Groceries, 2000, 2024-01-28
